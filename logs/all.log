@@ -1,0 +1,4 @@
+time="2023-11-09T01:19:34+06:00" level=info msg=SDdfjslkf func="main.main()" file="main.go:13"
+time="2023-11-09T01:19:34+06:00" level=info msg="Read configuration" func="github.com/MamushevArup/server/internal/config.ReadConfig()" file="config.go:21"
+time="2023-11-09T01:20:07+06:00" level=info msg=SDdfjslkf func="main.main()" file="main.go:13"
+time="2023-11-09T01:20:07+06:00" level=info msg="Read configuration" func="github.com/MamushevArup/server/internal/config.ReadConfig()" file="config.go:21"
